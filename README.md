@@ -6,6 +6,12 @@ Nesta oportunidade quis desempenhar um trabalho baseado em um tema que é muito 
 
 ![20221116_081432](https://user-images.githubusercontent.com/109693767/202172426-cf9cfc25-04cd-4596-87a5-3c739f723a90.gif)
 
+Passo a passo: 
+* **C** (Create): quando o usuário digita e salva seus dados;
+* **R** (Read): ao fechar e abrir a aplicação novamente, temos a leitura;
+* **U** (Update): ao digitar o mesmo nome e alterar somente a profissão e o número de registro, temos a atualização;
+* **D** (Delete): e, por fim, ao clicar no ícone com o símbolo de subtração e atualizar a tela, vemos que o registro foi deletado. 
+
 Obs: O GIF é um pouco longo e durante a pausa para fechar e abrir o aplicativo novamente, vai parecer que "travou", mas ainda há alguns segundos restantes de reprodução.
 
 ## O Desafio 
