@@ -6,6 +6,8 @@ Nesta oportunidade quis desempenhar um trabalho baseado em um tema que é muito 
 
 ![20221116_081432](https://user-images.githubusercontent.com/109693767/202172426-cf9cfc25-04cd-4596-87a5-3c739f723a90.gif)
 
+Obs: O GIF é um pouco longo e durante a pausa para fechar e abrir o aplicativo novamente, vai parecer que "travou", mas ainda há alguns segundos restantes de reprodução.
+
 ## O Desafio 
 
 Aplicação dos conceitos de persistência de dados dentro de um projeto autoral. O projeto alcançou o seu objetivo principal: o armazenamento utilizando recurso interno de um dispositivo, conforme visto na demonstração acima: mesmo quando o usuário fecha a aplicação, ao abrir ela novamente, os seus dados gravados anteriormente ainda se encontram disponíveis e sendo possível manipulá-los. 
